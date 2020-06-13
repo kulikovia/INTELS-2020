@@ -1,0 +1,38 @@
+MODEL_TYPE,NODE_TYPE,ID,NAME,PARENT_ID
+VOD,VOD_Node,1,VOD calaloge Core,
+VOD,VOD_Node,5,Adults,1
+VOD,VOD_Node,9,Adults films,5
+VOD,VOD_Node,10,Adults cartoons,5
+VOD,VOD_Node,11,Adults music show,5
+VOD,VOD_Asset,19,Asset 1,9
+VOD,VOD_Asset,20,Asset 2,9
+VOD,VOD_Asset,21,Asset 3,9
+VOD,VOD_Asset,22,Asset 4,10
+VOD,VOD_Asset,23,Asset 5,10
+VOD,VOD_Asset,24,Asset 6,10
+VOD,VOD_Asset,25,Asset 7,11
+VOD,VOD_Asset,26,Asset 8,11
+VOD,VOD_Asset,27,Asset 9,11
+Billing,Billing_Node,1,Billing core node,
+Billing,Billing_Node,2,Tariff 1,1
+Billing,Billing_Node,4,Tariff 3,1
+Billing,User,7,User 1,2
+Billing,User,8,User 2,2
+Billing,User,9,User 3,2
+Billing,User,10,User 4,2
+Billing,User,11,User 5,2
+Billing,User,17,User 11,4
+Billing,User,18,User 12,4
+Billing,User,19,User 13,4
+Billing,User,20,User 14,4
+Billing,User,21,User 15,4
+Entitlements,Entitlements_Node,1,Entitlements core node,
+Entitlements,Billing_Node,2,Tariff 1,1
+Entitlements,Billing_Node,4,Tariff 3,1
+Entitlements,VOD_Node,7,Adults,2
+Entitlements,VOD_Node,8,Documentary,2
+Entitlements,VOD_Node,11,Adults,4
+Entitlements,VOD_Node,12,Children,4
+Entitlements,VOD_Node,13,Famaly,4
+Entitlements,VOD_Node,14,Documentary,4
+Test_model,Test_node,1,TEST,

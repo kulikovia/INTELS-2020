@@ -1,0 +1,2 @@
+SRC_NODE_TYPE,DIST_NODE_TYPE,RULE
+Billing_Node,VOD_Node,entitled

@@ -1,0 +1,14 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema>
+PREFIX my: <http://127.0.0.1/bg/ont/test1#>
+SELECT *
+WHERE
+{
+  ?User my:has_id "51" .
+  ?Tariff my:includes ?User .
+  ?Tariff my:entitled ?VOD_node .
+  ?VOD_node my:includes ?VOD_node_2 .
+  ?VOD_node_2 my:includes ?VOD_assets .
+}
+LIMIT 10000000

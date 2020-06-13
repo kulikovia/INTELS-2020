@@ -1,0 +1,1264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF
+xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+xmlns:vCard='http://www.w3.org/2001/vcard-rdf/3.0#'
+xmlns:my='http://127.0.0.1/bg/ont/test1#'
+>
+<rdf:Description rdf:about='http://127.0.0.1/VOD calaloge Core/'>
+<my:has_id>0</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: VOD calaloge Core</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+<my:has_id>1</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Adults</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+<my:has_id>2</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Children</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+<my:has_id>3</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Famaly</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+<my:has_id>4</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Documentary</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults films/'>
+<my:has_id>5</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Adults films</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+<my:has_id>6</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Adults cartoons</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+<my:has_id>7</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Adults music show</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+<my:has_id>8</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Famaly shows</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly films/'>
+<my:has_id>9</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Famaly films</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly sport/'>
+<my:has_id>10</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Famaly sport</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+<my:has_id>11</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Children cartoons</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children sport/'>
+<my:has_id>12</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Children sport</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children films/'>
+<my:has_id>13</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Children films</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary films/'>
+<my:has_id>14</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Node, Node name: Documentary films</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 1/'>
+<my:has_id>15</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 1</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 2/'>
+<my:has_id>16</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 2</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 3/'>
+<my:has_id>17</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 3</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 4/'>
+<my:has_id>18</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 4</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 5/'>
+<my:has_id>19</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 5</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 6/'>
+<my:has_id>20</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 6</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 7/'>
+<my:has_id>21</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 7</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 8/'>
+<my:has_id>22</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 8</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 9/'>
+<my:has_id>23</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 9</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 10/'>
+<my:has_id>24</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 10</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 11/'>
+<my:has_id>25</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 11</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 12/'>
+<my:has_id>26</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 12</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 13/'>
+<my:has_id>27</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 13</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 14/'>
+<my:has_id>28</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 14</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 15/'>
+<my:has_id>29</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 15</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 16/'>
+<my:has_id>30</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 16</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 17/'>
+<my:has_id>31</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 17</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 18/'>
+<my:has_id>32</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 18</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 19/'>
+<my:has_id>33</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 19</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 20/'>
+<my:has_id>34</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 20</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 21/'>
+<my:has_id>35</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 21</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 22/'>
+<my:has_id>36</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 22</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 23/'>
+<my:has_id>37</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 23</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 24/'>
+<my:has_id>38</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 24</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 25/'>
+<my:has_id>39</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 25</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 26/'>
+<my:has_id>40</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 26</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 27/'>
+<my:has_id>41</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 27</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 28/'>
+<my:has_id>42</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 28</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 29/'>
+<my:has_id>43</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 29</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Asset 30/'>
+<my:has_id>44</my:has_id>
+<my:has_type>VOD_Asset</my:has_type>
+<my:has_description>Model type: VOD, Node type: VOD_Asset, Node name: Asset 30</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Billing core node/'>
+<my:has_id>45</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Billing, Node type: Billing_Node, Node name: Billing core node</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:has_id>46</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Billing, Node type: Billing_Node, Node name: Tariff 1</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:has_id>47</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Billing, Node type: Billing_Node, Node name: Tariff 2</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:has_id>48</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Billing, Node type: Billing_Node, Node name: Tariff 3</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:has_id>49</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Billing, Node type: Billing_Node, Node name: Tariff 4</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:has_id>50</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Billing, Node type: Billing_Node, Node name: Tariff 5</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 1/'>
+<my:has_id>51</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 1</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 2/'>
+<my:has_id>52</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 2</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 3/'>
+<my:has_id>53</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 3</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 4/'>
+<my:has_id>54</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 4</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 5/'>
+<my:has_id>55</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 5</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 6/'>
+<my:has_id>56</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 6</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 7/'>
+<my:has_id>57</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 7</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 8/'>
+<my:has_id>58</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 8</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 9/'>
+<my:has_id>59</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 9</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 10/'>
+<my:has_id>60</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 10</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 11/'>
+<my:has_id>61</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 11</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 12/'>
+<my:has_id>62</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 12</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 13/'>
+<my:has_id>63</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 13</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 14/'>
+<my:has_id>64</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 14</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 15/'>
+<my:has_id>65</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 15</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 16/'>
+<my:has_id>66</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 16</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 17/'>
+<my:has_id>67</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 17</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 18/'>
+<my:has_id>68</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 18</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 19/'>
+<my:has_id>69</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 19</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 20/'>
+<my:has_id>70</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 20</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 21/'>
+<my:has_id>71</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 21</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 22/'>
+<my:has_id>72</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 22</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 23/'>
+<my:has_id>73</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 23</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 24/'>
+<my:has_id>74</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 24</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/User 25/'>
+<my:has_id>75</my:has_id>
+<my:has_type>User</my:has_type>
+<my:has_description>Model type: Billing, Node type: User, Node name: User 25</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Entitlements core node/'>
+<my:has_id>76</my:has_id>
+<my:has_type>Entitlements_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: Entitlements_Node, Node name: Entitlements core node</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:has_id>77</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: Billing_Node, Node name: Tariff 1</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:has_id>78</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: Billing_Node, Node name: Tariff 2</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:has_id>79</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: Billing_Node, Node name: Tariff 3</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:has_id>80</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: Billing_Node, Node name: Tariff 4</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:has_id>81</my:has_id>
+<my:has_type>Billing_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: Billing_Node, Node name: Tariff 5</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+<my:has_id>82</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Adults</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+<my:has_id>83</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Documentary</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+<my:has_id>84</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Children</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+<my:has_id>85</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Famaly</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+<my:has_id>86</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Adults</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+<my:has_id>87</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Children</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+<my:has_id>88</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Famaly</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+<my:has_id>89</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Documentary</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+<my:has_id>90</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Adults cartoons</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+<my:has_id>91</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Children cartoons</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+<my:has_id>92</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Adults music show</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+<my:has_id>93</my:has_id>
+<my:has_type>VOD_Node</my:has_type>
+<my:has_description>Model type: Entitlements, Node type: VOD_Node, Node name: Famaly shows</my:has_description>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Adults films/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly films/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly sport/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Children sport/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Children films/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Documentary films/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 1/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 2/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 3/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 4/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 5/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 6/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 7/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 8/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 9/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 10/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 11/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 12/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 13/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 14/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 15/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly sport/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 16/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly sport/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 17/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Famaly sport/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 18/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 19/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 20/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 21/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children sport/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 22/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children sport/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 23/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children sport/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 24/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 25/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 26/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Children films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 27/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 28/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 29/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Documentary films/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Asset 30/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Billing core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Billing core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Billing core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Billing core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Billing core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 1/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 2/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 3/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 4/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 5/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 6/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 7/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 8/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 9/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 10/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 11/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 12/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 13/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 14/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 15/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 16/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 17/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 18/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 19/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 20/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 21/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 22/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 23/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 24/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/User 25/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Entitlements core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Entitlements core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Entitlements core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Entitlements core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Entitlements core node/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:includes>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+</rdf:Description>
+</my:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 1/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 2/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Adults/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Children/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 3/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Documentary/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Adults cartoons/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 4/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Children cartoons/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Adults music show/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/Tariff 5/'>
+<my:entitled>
+<rdf:Description rdf:about='http://127.0.0.1/Famaly shows/'>
+</rdf:Description>
+</my:entitled>
+</rdf:Description>
+
+</rdf:RDF>

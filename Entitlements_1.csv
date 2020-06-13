@@ -1,0 +1,19 @@
+MODEL_TYPE,NODE_TYPE,ID,NAME,PARENT_ID
+Entitlements,Entitlements_Node,1,Entitlements core node,
+Entitlements,Billing_Node,2,Tariff 1,1
+Entitlements,Billing_Node,3,Tariff 2,1
+Entitlements,Billing_Node,4,Tariff 3,1
+Entitlements,Billing_Node,5,Tariff 4,1
+Entitlements,Billing_Node,6,Tariff 5,1
+Entitlements,VOD_Node,7,Adults,2
+Entitlements,VOD_Node,8,Documentary,2
+Entitlements,VOD_Node,9,Children,3
+Entitlements,VOD_Node,10,Famaly,3
+Entitlements,VOD_Node,11,Adults,4
+Entitlements,VOD_Node,12,Children,4
+Entitlements,VOD_Node,13,Famaly,4
+Entitlements,VOD_Node,14,Documentary,4
+Entitlements,VOD_Node,15,Adults cartoons,5
+Entitlements,VOD_Node,16,Children cartoons,5
+Entitlements,VOD_Node,11,Adults music show,6
+Entitlements,VOD_Node,12,Famaly shows,6

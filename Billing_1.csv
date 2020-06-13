@@ -1,0 +1,32 @@
+MODEL_TYPE,NODE_TYPE,ID,NAME,PARENT_ID
+Billing,Billing_Node,1,Billing core node,
+Billing,Billing_Node,2,Tariff 1,1
+Billing,Billing_Node,3,Tariff 2,1
+Billing,Billing_Node,4,Tariff 3,1
+Billing,Billing_Node,5,Tariff 4,1
+Billing,Billing_Node,6,Tariff 5,1
+Billing,User,7,User 1,2
+Billing,User,8,User 2,2
+Billing,User,9,User 3,2
+Billing,User,10,User 4,2
+Billing,User,11,User 5,2
+Billing,User,12,User 6,3
+Billing,User,13,User 7,3
+Billing,User,14,User 8,3
+Billing,User,15,User 9,3
+Billing,User,16,User 10,3
+Billing,User,17,User 11,4
+Billing,User,18,User 12,4
+Billing,User,19,User 13,4
+Billing,User,20,User 14,4
+Billing,User,21,User 15,4
+Billing,User,22,User 16,5
+Billing,User,23,User 17,5
+Billing,User,24,User 18,5
+Billing,User,25,User 19,5
+Billing,User,26,User 20,5
+Billing,User,27,User 21,6
+Billing,User,28,User 22,6
+Billing,User,29,User 23,6
+Billing,User,30,User 24,6
+Billing,User,31,User 25,6

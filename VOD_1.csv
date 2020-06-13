@@ -1,0 +1,46 @@
+MODEL_TYPE,NODE_TYPE,ID,NAME,PARENT_ID
+VOD,VOD_Node,1,VOD calaloge Core,
+VOD,VOD_Node,5,Adults,1
+VOD,VOD_Node,6,Children,1
+VOD,VOD_Node,7,Famaly,1
+VOD,VOD_Node,8,Documentary,1
+VOD,VOD_Node,9,Adults films,5
+VOD,VOD_Node,10,Adults cartoons,5
+VOD,VOD_Node,11,Adults music show,5
+VOD,VOD_Node,12,Famaly shows,7
+VOD,VOD_Node,13,Famaly films,7
+VOD,VOD_Node,14,Famaly sport,7
+VOD,VOD_Node,15,Children cartoons,6
+VOD,VOD_Node,16,Children sport,6
+VOD,VOD_Node,17,Children films,6
+VOD,VOD_Node,18,Documentary films,8
+VOD,VOD_Asset,19,Asset 1,9
+VOD,VOD_Asset,20,Asset 2,9
+VOD,VOD_Asset,21,Asset 3,9
+VOD,VOD_Asset,22,Asset 4,10
+VOD,VOD_Asset,23,Asset 5,10
+VOD,VOD_Asset,24,Asset 6,10
+VOD,VOD_Asset,25,Asset 7,11
+VOD,VOD_Asset,26,Asset 8,11
+VOD,VOD_Asset,27,Asset 9,11
+VOD,VOD_Asset,28,Asset 10,12
+VOD,VOD_Asset,29,Asset 11,12
+VOD,VOD_Asset,30,Asset 12,12
+VOD,VOD_Asset,31,Asset 13,13
+VOD,VOD_Asset,32,Asset 14,13
+VOD,VOD_Asset,33,Asset 15,13
+VOD,VOD_Asset,34,Asset 16,14
+VOD,VOD_Asset,35,Asset 17,14
+VOD,VOD_Asset,36,Asset 18,14
+VOD,VOD_Asset,37,Asset 19,15
+VOD,VOD_Asset,38,Asset 20,15
+VOD,VOD_Asset,39,Asset 21,15
+VOD,VOD_Asset,40,Asset 22,16
+VOD,VOD_Asset,41,Asset 23,16
+VOD,VOD_Asset,42,Asset 24,16
+VOD,VOD_Asset,43,Asset 25,17
+VOD,VOD_Asset,44,Asset 26,17
+VOD,VOD_Asset,45,Asset 27,17
+VOD,VOD_Asset,46,Asset 28,18
+VOD,VOD_Asset,47,Asset 29,18
+VOD,VOD_Asset,48,Asset 30,18
